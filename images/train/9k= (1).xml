@@ -1,0 +1,26 @@
+<annotation>
+	<folder>coconut_rhinoceros</folder>
+	<filename>9k= (1).jpg</filename>
+	<path>C:\Users\Richie\tf_files\beetle\coconut_rhinoceros\9k= (1).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>276</width>
+		<height>183</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Coconut Rhinoceros Beetle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>15</xmin>
+			<ymin>7</ymin>
+			<xmax>261</xmax>
+			<ymax>169</ymax>
+		</bndbox>
+	</object>
+</annotation>

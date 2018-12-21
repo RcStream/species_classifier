@@ -1,0 +1,26 @@
+<annotation>
+	<folder>hawaiian scarab beetle _ Google Search</folder>
+	<filename>2Q== (1).jpg</filename>
+	<path>C:\Users\Richie\Desktop\Label\data\hawaiian scarab beetle _ Google Search\2Q== (1).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>222</width>
+		<height>227</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Hawaii Scarab Beetle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>16</xmin>
+			<ymin>4</ymin>
+			<xmax>214</xmax>
+			<ymax>221</ymax>
+		</bndbox>
+	</object>
+</annotation>
