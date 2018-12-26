@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Asian Multicolored Lady Beetle</folder>
+	<filename>Full_sized image _6 of the Asian Multicolored Lady Beetle.jpg</filename>
+	<path>C:\Users\Richie\Documents\College\Research\Beetles\Asian Multicolored Lady Beetle\Full_sized image _6 of the Asian Multicolored Lady Beetle.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Asian Multicolored Lady Beetle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>107</xmin>
+			<ymin>112</ymin>
+			<xmax>521</xmax>
+			<ymax>468</ymax>
+		</bndbox>
+	</object>
+</annotation>

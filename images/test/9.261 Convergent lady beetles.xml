@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Convergent lady beetle test</folder>
+	<filename>9.261 Convergent lady beetles.jpg</filename>
+	<path>C:\Users\Richie\Documents\College\Research\Beetles\Convergent lady beetle test\9.261 Convergent lady beetles.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>375</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>convergent lady beetle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>34</xmin>
+			<ymin>134</ymin>
+			<xmax>258</xmax>
+			<ymax>320</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>convergent lady beetle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>275</xmin>
+			<ymin>146</ymin>
+			<xmax>449</xmax>
+			<ymax>305</ymax>
+		</bndbox>
+	</object>
+</annotation>

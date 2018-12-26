@@ -1,0 +1,26 @@
+<annotation>
+	<folder>american carrion beetle test</folder>
+	<filename>3487359523_141cb7124c_z.jpg</filename>
+	<path>C:\Users\Richie\Documents\College\Research\Beetles\american carrion beetle test\3487359523_141cb7124c_z.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>american carrion beetle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>6</xmin>
+			<ymin>29</ymin>
+			<xmax>476</xmax>
+			<ymax>364</ymax>
+		</bndbox>
+	</object>
+</annotation>

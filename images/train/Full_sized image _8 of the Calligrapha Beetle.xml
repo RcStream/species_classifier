@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Calligrapha Beetle</folder>
+	<filename>Full_sized image _8 of the Calligrapha Beetle.jpg</filename>
+	<path>C:\Users\Richie\Documents\College\Research\Beetles\Calligrapha Beetle\Full_sized image _8 of the Calligrapha Beetle.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Calligrapha Beetle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>328</xmin>
+			<ymin>194</ymin>
+			<xmax>519</xmax>
+			<ymax>392</ymax>
+		</bndbox>
+	</object>
+</annotation>

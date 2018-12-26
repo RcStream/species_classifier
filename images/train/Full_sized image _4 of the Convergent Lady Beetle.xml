@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Convergent Lady Beetle</folder>
+	<filename>Full_sized image _4 of the Convergent Lady Beetle.jpg</filename>
+	<path>C:\Users\Richie\Documents\College\Research\Beetles\Convergent Lady Beetle\Full_sized image _4 of the Convergent Lady Beetle.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Convergent Lady Beetle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>225</xmin>
+			<ymin>33</ymin>
+			<xmax>648</xmax>
+			<ymax>558</ymax>
+		</bndbox>
+	</object>
+</annotation>

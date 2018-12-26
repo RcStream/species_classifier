@@ -1,0 +1,38 @@
+<annotation>
+	<folder>american carrion beetle test</folder>
+	<filename>bonnie_ott_18173772628_d565a422a0_b.jpg</filename>
+	<path>C:\Users\Richie\Documents\College\Research\Beetles\american carrion beetle test\bonnie_ott_18173772628_d565a422a0_b.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>781</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>american carrion beetle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>154</xmin>
+			<ymin>132</ymin>
+			<xmax>647</xmax>
+			<ymax>684</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>american carrion beetle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>489</xmin>
+			<ymin>124</ymin>
+			<xmax>905</xmax>
+			<ymax>688</ymax>
+		</bndbox>
+	</object>
+</annotation>

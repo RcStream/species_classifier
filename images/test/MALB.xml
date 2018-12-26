@@ -1,0 +1,26 @@
+<annotation>
+	<folder>asian multicolored lady test</folder>
+	<filename>MALB.jpg</filename>
+	<path>C:\Users\Richie\Documents\College\Research\Beetles\asian multicolored lady test\MALB.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>504</width>
+		<height>336</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>asian multicolored lady</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>60</xmin>
+			<ymin>25</ymin>
+			<xmax>471</xmax>
+			<ymax>316</ymax>
+		</bndbox>
+	</object>
+</annotation>

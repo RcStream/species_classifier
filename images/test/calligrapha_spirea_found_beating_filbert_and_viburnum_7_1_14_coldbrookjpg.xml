@@ -1,0 +1,26 @@
+<annotation>
+	<folder>calligrapha beetle test</folder>
+	<filename>calligrapha_spirea_found_beating_filbert_and_viburnum_7_1_14_coldbrookjpg.jpg</filename>
+	<path>C:\Users\Richie\Documents\College\Research\Beetles\calligrapha beetle test\calligrapha_spirea_found_beating_filbert_and_viburnum_7_1_14_coldbrookjpg.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3029</width>
+		<height>2236</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Calligrapha beetle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>993</xmin>
+			<ymin>655</ymin>
+			<xmax>2182</xmax>
+			<ymax>1762</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>coconut rhinoceros beetle _ Google Search</folder>
+	<filename>fJtDsVHGJtoFu4aRfRbUYBbnVimTbnfNOAxEh_xLLHqQbKvqc7MLkJ45JHupCQtbqqfO3a05wvkSt7c_6qTgYA_s600_c.jpg</filename>
+	<path>C:\Users\Richie\Documents\College\Research\Beetles\coconut rhinoceros beetle _ Google Search\fJtDsVHGJtoFu4aRfRbUYBbnVimTbnfNOAxEh_xLLHqQbKvqc7MLkJ45JHupCQtbqqfO3a05wvkSt7c_6qTgYA_s600_c.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>coconut rhinoceros beetle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>43</xmin>
+			<ymin>62</ymin>
+			<xmax>578</xmax>
+			<ymax>429</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>asian multicolored lady test</folder>
+	<filename>asian_lady_beetle.jpg</filename>
+	<path>C:\Users\Richie\Documents\College\Research\Beetles\asian multicolored lady test\asian_lady_beetle.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>200</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>asian multicolored lady</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>51</xmin>
+			<ymin>1</ymin>
+			<xmax>252</xmax>
+			<ymax>168</ymax>
+		</bndbox>
+	</object>
+</annotation>
